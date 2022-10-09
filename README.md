@@ -1,4 +1,4 @@
-This project aims to predict stock price day by day in Viet Nam. # Heading 1 # <br/> 
+# This project aims to predict stock price day by day in Viet Nam. # <br/> 
 References: ## Heading 2## <br/>
 <li> [Stock market forecasting/ARIMA](https://www.kaggle.com/code/nageshsingh/stock-market-forecasting-arima)<br/>
 <li> [ADF Test](https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/)<br/>
