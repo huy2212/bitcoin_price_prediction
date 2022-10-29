@@ -5,3 +5,4 @@
 *  [Time series analysis](https://www.kaggle.com/discussions/general/272226) 
 *  [Stationary and differencing](https://otexts.com/fpp2/stationarity.html)
 *  [ARIMA model](https://people.duke.edu/~rnau/411arim2.htm)
+*  [Binance API](https://algotrading101.com/learn/binance-python-api-guide/)
