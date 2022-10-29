@@ -1,4 +1,6 @@
 # This project aims to predict bitcoin stock price.<br/> 
+## About data:
+*  This data is collected from binance api, the dataset contain just 365 bitcoin prices before 30/10/2022
 ## References: 
 *  [Stock market forecasting/ARIMA](https://www.kaggle.com/code/nageshsingh/stock-market-forecasting-arima)  
 *  [ADF Test](https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/)  
