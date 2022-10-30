@@ -1,4 +1,4 @@
-# This project aims to predict bitcoin stock price.<br/> 
+# This project aims to predict bitcoin stock price using Xgboost and ARIMA.<br/> 
 ## About data:
 *  This data is collected from binance api, the dataset contain just 365 bitcoin prices before 30/10/2022
 ## References: 
