@@ -8,3 +8,5 @@
 *  [Stationary and differencing](https://otexts.com/fpp2/stationarity.html)
 *  [ARIMA model](https://people.duke.edu/~rnau/411arim2.htm)
 *  [Binance API](https://algotrading101.com/learn/binance-python-api-guide/)
+![image](https://user-images.githubusercontent.com/99111312/203339130-d657f746-7410-4cd4-ae0f-2e2d52a42c00.png)
+![image](https://user-images.githubusercontent.com/99111312/203339056-7f41ba90-51b6-4596-a3e1-cc275cba372c.png)
