@@ -21,9 +21,3 @@ def data_processing(data):
    btc_df['date'] = pd.to_datetime(btc_df['date'], unit='ms')
    btc_df['date'] = btc_df['date'].astype("string")
    return btc_df
-   
-   
-
-
-
-
