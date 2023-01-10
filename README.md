@@ -1,4 +1,4 @@
-# This project aims to predict bitcoin price using Xgboost and ARIMA.<br/> 
+# This project aims to predict bitcoin price using Xgboost, ARIMA and SVR.<br/> 
 
 ## About data:
 *  The data for analytic purposes was collected from binance API, it contains just 365 days before 30/10/2022
