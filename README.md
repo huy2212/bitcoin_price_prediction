@@ -1,10 +1,10 @@
 # This project aims to predict bitcoin price using Xgboost and ARIMA.<br/> 
+
 ## About data:
-*  This data is collected from binance api, the dataset contain just 365 bitcoin prices before 30/10/2022
+*  The data for analytic purposes was collected from binance API, it contains just 365 days before 30/10/2022
 ## Some screenshots of the app:
 ### [Dash app is live!](https://bitcoinpredictionbyhuy.onrender.com/)
-![image](https://user-images.githubusercontent.com/99111312/203339130-d657f746-7410-4cd4-ae0f-2e2d52a42c00.png)
-![image](https://user-images.githubusercontent.com/99111312/203339823-b78d1281-f994-4675-aeed-08d31867c776.png)
+![image](https://user-images.githubusercontent.com/99111312/211452374-41048efa-3469-4bed-b621-dddc3e1c1a07.png) | ![image](https://user-images.githubusercontent.com/99111312/211452601-39707635-e3cf-4107-9c82-a651ba675f8b.png)
 
 ## References: 
 *  [Stock market forecasting/ARIMA](https://www.kaggle.com/code/nageshsingh/stock-market-forecasting-arima)  
