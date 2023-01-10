@@ -4,6 +4,11 @@
 *  The data for analytic purposes was collected from binance API, it contains just 365 days before 30/10/2022
 ## Some screenshots of the app:
 ### [Dash app is live!](https://bitcoinpredictionbyhuy.onrender.com/)
+<p float="left">
+  <img src="![image](https://user-images.githubusercontent.com/99111312/211452374-41048efa-3469-4bed-b621-dddc3e1c1a07.png)" width="100" />
+  <img src="![image](https://user-images.githubusercontent.com/99111312/211452601-39707635-e3cf-4107-9c82-a651ba675f8b.png)" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 ![image](https://user-images.githubusercontent.com/99111312/211452374-41048efa-3469-4bed-b621-dddc3e1c1a07.png) | ![image](https://user-images.githubusercontent.com/99111312/211452601-39707635-e3cf-4107-9c82-a651ba675f8b.png)
 
 ## References: 
